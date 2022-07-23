@@ -1,0 +1,17 @@
+{
+    "name": "rahul/fyndaview",
+    "description": "This library crawl search engine results for the first 5 pages and extracts metadata for a set of keywords",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rahul\\Fyndaview\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rahul",
+            "email": "rahul.narayan269@gmail.com"
+        }
+    ],
+    "require": {}
+}
